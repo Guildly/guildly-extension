@@ -10,6 +10,10 @@ Guildly is a platform to create, manage and interact with multiplayer smart acco
 
 To contribute to this repository please read the contributing guidelines first.
 
+Prerequisite :  
+* Install [Yarn](https://www.npmjs.com/package/yarn)   
+* Install [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
 To setup the repo on your machine, first clone it, then just run:
 
 ```
